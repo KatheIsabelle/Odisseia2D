@@ -1,0 +1,3234 @@
+fileFormatVersion: 2
+guid: 1c49fe927156dd244bb24c707ad4ac22
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356621bd0d8f2f2439af9e0186b5a771
+      internalID: -861191584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f719ae9f8745046932607406dd54f9
+      internalID: -1666180156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdc79007ce19c047ad14c17f578c863
+      internalID: -2103457303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56648340a4b26b4d9e6e9fc9a76190a
+      internalID: 1478081617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa135027ad7c1e4c897c5f67718e994
+      internalID: 2069936321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e410dcac7ebcc48849e446d681a31f
+      internalID: -956291459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8660f1094bab7438cd9090539ec770
+      internalID: 1170504954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274527db179c0384f997acc3d2d27b77
+      internalID: -1305684275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff637e3d4fc3f64999d3f427c8ca781
+      internalID: 1609974384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806ae43bab371994fa686b9ff6a318e6
+      internalID: 70494638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79d7bb8275f7c146b203dfb1351d4b9
+      internalID: -2058677445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a999d6201033148a0992844dcfcd44
+      internalID: 1206200066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c674a937552ce1d48913440c35a81d51
+      internalID: -1132576646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7873ba555308f034cbd1a901dfe14369
+      internalID: 744083167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa37520f28a6df468e8f9b4cab65b3b
+      internalID: 1452564322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6657c1f3362454d8c90a0fe5d40dcb
+      internalID: 924534477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8640a108c90083a49899f5cd7e4c2f56
+      internalID: 1779872654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d2ae851198d7240a1c2902bc758c8f
+      internalID: -500247067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_18
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3336f7f60590f4990f3b301b367f84
+      internalID: 2111948376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14803ff8ea7aca4ab9f1e51dcc8d29b
+      internalID: 453725669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_20
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6968bb2a682e75148b018153941e3cca
+      internalID: 1773505225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc8e23ff2df92741afcb234654e7015
+      internalID: 268677727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac6257abc3c66d44a17b080dd4e9db4
+      internalID: 2019884602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6fda2eec82e4b4c9bf888fad8b63f6
+      internalID: -716894272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddb743d3af88774db0729543337b5c5
+      internalID: 1459136551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d52d65956074b947b6c26ea255fd694
+      internalID: -535751111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa1b0019c5d04f48a264d42d799b383
+      internalID: -1559057041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9bc6b6bbdaf2944b2e76420e7a9b66
+      internalID: 1218724216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da19b70594ab4048a6ae6759e634192
+      internalID: 363956540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4c9f3e10202c44f983c3dca459593d
+      internalID: 790711453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a89076a2f440845addbf8c9fcd298c
+      internalID: 251806255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721b51c97c36765488fe9185d863fbdf
+      internalID: 1571237561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900f54029114a8248b961f64525850e0
+      internalID: 684096593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1205a647b25ab4c4880481102c7849ec
+      internalID: -1390560820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76b0b6babee39c4caff7433b6852cc0
+      internalID: -174977234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_35
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb7444194bb0cf4e851d5ac1925c06c
+      internalID: -798757598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add5920d10fae3d47b40fed89fe65f15
+      internalID: 1862825017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761ed0a5e5b82364d848e0114cd9fe43
+      internalID: -962010760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2448d8021780a4ebd29b502dd7d01c
+      internalID: -1133856373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_39
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02b8b7f4135f744dac783e909406cd5
+      internalID: -867957615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_40
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f67a7bf4b2ffa41bd00cb5a662c157
+      internalID: 599448963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ae56c2e7861d8428a3fc86d0393042
+      internalID: -2115144304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_42
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260eac9f9723ac741824fc90e4b8265c
+      internalID: 1067596832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b48463851692247846d8cf3d5b6793
+      internalID: 2060107949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4e8abc942fc8c479122ec5c03c3c0b
+      internalID: -1666265164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51516fffd908d1947b2e097a04d48efd
+      internalID: -744585489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1dfcbd84230e448aab8406626b94b2
+      internalID: 271840057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63ca4a1ed651ee4986dc914aae7d4df
+      internalID: 593655659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c338ee25e882044d97c8d70e98ad531
+      internalID: -1472860038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5521f3b53fd9b3642bbd25caa7f05688
+      internalID: -1336987630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291d6ca0ae9923146a175de904b10adb
+      internalID: -1839374162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dca166678384194598402bb59570f50
+      internalID: -277297313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_52
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48273bb8b9acf49408ab23a730f7fa8b
+      internalID: -566759292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_53
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3d1e7ab34f9fe48ac897ad382107ea
+      internalID: -1389959720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455172e8affd2464681e911e6a7a7245
+      internalID: 256646918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aca20786d181b849b83b61658445d05
+      internalID: -974544190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f7c6ea103981e4982e8bec72a6789f
+      internalID: -130142062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b088791c03e5e8c41b76cac5330461f6
+      internalID: -1127235031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cc202851f7d5b44b83a987e9a02b86
+      internalID: 1489595851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cff28a0d972c0d43a2ab4cd72936966
+      internalID: -247019398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_60
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c27e895ea90644394fb9f730a57cb0
+      internalID: -410934082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_61
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21013a2dd78e2ff45812d344f4595615
+      internalID: -292722535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a9368be85ed5b48b83b4b40af1da8c
+      internalID: 1870106384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_63
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84624ec4a10ad334e80755076d93cca7
+      internalID: -549979038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_64
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d593a8384551a48a303d096b908c8c
+      internalID: -1769787996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d091a8a93d6544aacba17a6fac2dd2
+      internalID: -2051967804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d37afdfe0e755342bd8fbaff8c3ce53
+      internalID: -357851201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8589c4eb478224183a8f44f8cbae18
+      internalID: -1920871656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b831e8bd1c65e77498884c791f807e87
+      internalID: -1516661758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380af6d3932b5fd4dac01c0ef0ad6edc
+      internalID: -1154994272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d94a58c6f3bbac4a8b7f1ea03acb9bd
+      internalID: -636824150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_71
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedd3d85092a0db408edad6a78613d0b
+      internalID: 2035362476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_72
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c364e637cd928144ababef33863f2c32
+      internalID: 1537563722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_73
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40122a97cdd4fef4eb65f71b86d5d768
+      internalID: -429700970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8515ba33f9d5240aa6f241e9bb72d1
+      internalID: -1481700695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_75
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e41e40672691e4e8e9e3a0548e5e57
+      internalID: -952505418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_76
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520ef4396ce2c7440a6ed0650d2862a5
+      internalID: -750469425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c85d379646ede4ca228f02a02e1037
+      internalID: -1595845429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cec0a619a1776349a5cfe958d11409f
+      internalID: -734119157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_79
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b55b2081169cfd4ea90beb057f6b4d5
+      internalID: -824242148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2955a6d71b60b4147b506e5d60299c5f
+      internalID: -544515826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_81
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bb83c32b252e845b0a22019e04f6a2
+      internalID: 1466646849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa694a2bff9d6342921f7f01d9c5e3d
+      internalID: 1577252346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65567973dc4a6184d84e429ae53983ce
+      internalID: 1554682220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_84
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367eb917fce9dad40a430c176bec691a
+      internalID: 1649411038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_85
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c33f02483659c428654252bde1d84e
+      internalID: -729845641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_86
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c909736b7f39ca45bf52a9cce2627d1
+      internalID: -288915432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_87
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b72f9244fc9254ba3bc3f5caaf6a56
+      internalID: -1197893413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57241784cfb42f14eae907f7475d39ec
+      internalID: -2079764561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbdc093cd1fdb34bb0e30b654bc80ba
+      internalID: 183777463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad39362d09f80946a422a5d06e42ac0
+      internalID: 763707378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21d3da67b55c994591a7f47328f59bb
+      internalID: 1544769431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953f41968dc2b5e419bd063476498123
+      internalID: -1661876625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_93
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489c126d5aa01254793d2846a4f54c39
+      internalID: -1497943032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_94
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1dbcd1c157e824a95e83da51a77a11
+      internalID: -409351078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_95
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ee1c1c6984cdb45a5186bce1e9ba9f
+      internalID: -1124388231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_96
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5375372d2807b6f4194b9b789225e608
+      internalID: 199694695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_97
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a6a0933418b0e49b52933ac535a58a
+      internalID: 354218448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_98
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7201e1987d57d7418146e3814e7521c
+      internalID: 1699271578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b32bac5daba944287977edccb4ba82
+      internalID: -1213285802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_100
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47786c394c7a4d248a698521a4b12ea8
+      internalID: -1922136286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52176615c363ed4d96f3ca73fc6e24b
+      internalID: 167612720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b5ab92eba946a4da7ad12ed72f4728
+      internalID: 266392432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dad37fda8eb5b34187ddbf539da7333
+      internalID: -1920984277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_104
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab74eec849017c440a0217c7bfcfe011
+      internalID: 1023201357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a120b13e4f6b3b41b99e6d8c46596ef
+      internalID: 187530039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_106
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b37fec8a1f57f468a32cc7d4bae0c9
+      internalID: 382970944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_107
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24475b5d443f7a469f1c996cc00aa74
+      internalID: 971492835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_108
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3546a2fff6268d4eaca2213ebed52a0
+      internalID: -1893116440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_109
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a133e15154ad94d89fa55fe7126b62
+      internalID: -222478775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81c59de2744333438572f2f3456e6fc
+      internalID: -383259857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_111
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1196fb5e274e4544abd269b13df8beb9
+      internalID: 776877014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4081bc30d45ec2449a6705dd8e15290
+      internalID: 1815328703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_113
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8c877fd75fc004e9d416718ee95771
+      internalID: -1588070651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b351262978c7d4ba62e7feced3a653
+      internalID: 1188462613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_115
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879dc9d1125015140bbef025e0b22116
+      internalID: -361898913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_116
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcac4c16f8637e428cc5273d2b0e1c8
+      internalID: -1753484152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_117
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d70fb9a1d8c1b44af7eee2afd14ee2
+      internalID: 497174497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_118
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d14dff3e310a264c9eca26f9f7e5a97
+      internalID: -1360996717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_119
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfc34ababf15ba41a0e1d00a3662f34
+      internalID: 1102134184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_120
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b7a35ad267cf74abd29400ea707525
+      internalID: -759604733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45946287c9d267845b66f8c90965e9a9
+      internalID: -1401859079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_127
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a213f054b7460e4fb3674f9c1d0746d
+      internalID: 1951170443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_128
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb1b606e44600f489529229948bdc7f
+      internalID: 1594287086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_129
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d485edc72c9e84683b9a001c338d6f
+      internalID: 244905681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_130
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3e72bc7d351794ab317b8c23a30121
+      internalID: 1174833645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_131
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa52e66529224840895b657fd6cfecd
+      internalID: -1527984832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4daae14a362c53644926db90c3eaa8d1
+      internalID: 1883396639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_135
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 116
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6460e8c819eb8e4aa64c5895f9bfbd8
+      internalID: 1091383716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499f2584cd0f9cd488fcaf014a1ec506
+      internalID: 36406420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_139
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd0530e7fae8ec4ba04421f4154f20e
+      internalID: 110653081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_140
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd95932330f1b14db9ba60858ac0279
+      internalID: -1594073535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_141
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf61ac8f5c428584d838a283d60dfb42
+      internalID: -2059886475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_142
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 88
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d517362dcc2a171429cfd67e3c87fb81
+      internalID: 818342724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac783025915c2914aab425524c8fc940
+      internalID: -1487504011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_149
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 22
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4977600a8081549b7eeb1fb8f4df49
+      internalID: -609119507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_150
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c164f1be881ed984db6ccacfd88fa178
+      internalID: 1250535960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_151
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08558353a1fa3414cb70843feeb72457
+      internalID: 648514680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_152
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1e230cfc243b847880addbfef67c2f
+      internalID: 301145509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PIXEL-ART-Page-8_153
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 24
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f3e27e8c0dad34b902c606b21f1068
+      internalID: -861080016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PIXEL-ART-Page-8_0: -861191584
+      PIXEL-ART-Page-8_1: -1666180156
+      PIXEL-ART-Page-8_10: -2058677445
+      PIXEL-ART-Page-8_100: -1922136286
+      PIXEL-ART-Page-8_101: 167612720
+      PIXEL-ART-Page-8_102: 266392432
+      PIXEL-ART-Page-8_103: -1920984277
+      PIXEL-ART-Page-8_104: 1023201357
+      PIXEL-ART-Page-8_105: 187530039
+      PIXEL-ART-Page-8_106: 382970944
+      PIXEL-ART-Page-8_107: 971492835
+      PIXEL-ART-Page-8_108: -1893116440
+      PIXEL-ART-Page-8_109: -222478775
+      PIXEL-ART-Page-8_11: 1206200066
+      PIXEL-ART-Page-8_110: -383259857
+      PIXEL-ART-Page-8_111: 776877014
+      PIXEL-ART-Page-8_112: 1815328703
+      PIXEL-ART-Page-8_113: -1588070651
+      PIXEL-ART-Page-8_114: 1188462613
+      PIXEL-ART-Page-8_115: -361898913
+      PIXEL-ART-Page-8_116: -1753484152
+      PIXEL-ART-Page-8_117: 497174497
+      PIXEL-ART-Page-8_118: -1360996717
+      PIXEL-ART-Page-8_119: 1102134184
+      PIXEL-ART-Page-8_12: -1132576646
+      PIXEL-ART-Page-8_120: -759604733
+      PIXEL-ART-Page-8_121: -1401859079
+      PIXEL-ART-Page-8_122: -1414325088
+      PIXEL-ART-Page-8_123: -1995648581
+      PIXEL-ART-Page-8_124: -1197140904
+      PIXEL-ART-Page-8_125: 1954300259
+      PIXEL-ART-Page-8_126: -1229386405
+      PIXEL-ART-Page-8_127: 1951170443
+      PIXEL-ART-Page-8_128: 1594287086
+      PIXEL-ART-Page-8_129: 244905681
+      PIXEL-ART-Page-8_13: 744083167
+      PIXEL-ART-Page-8_130: 1174833645
+      PIXEL-ART-Page-8_131: -1527984832
+      PIXEL-ART-Page-8_132: 1883396639
+      PIXEL-ART-Page-8_133: 1667313905
+      PIXEL-ART-Page-8_134: -633285467
+      PIXEL-ART-Page-8_135: 1091383716
+      PIXEL-ART-Page-8_136: 34975086
+      PIXEL-ART-Page-8_137: -961464544
+      PIXEL-ART-Page-8_138: 36406420
+      PIXEL-ART-Page-8_139: 110653081
+      PIXEL-ART-Page-8_14: 1452564322
+      PIXEL-ART-Page-8_140: -1594073535
+      PIXEL-ART-Page-8_141: -2059886475
+      PIXEL-ART-Page-8_142: 818342724
+      PIXEL-ART-Page-8_143: -1487504011
+      PIXEL-ART-Page-8_144: 663534949
+      PIXEL-ART-Page-8_145: 1739549450
+      PIXEL-ART-Page-8_146: -28934285
+      PIXEL-ART-Page-8_147: -513865728
+      PIXEL-ART-Page-8_148: 335231418
+      PIXEL-ART-Page-8_149: -609119507
+      PIXEL-ART-Page-8_15: 924534477
+      PIXEL-ART-Page-8_150: 1250535960
+      PIXEL-ART-Page-8_151: 648514680
+      PIXEL-ART-Page-8_152: 301145509
+      PIXEL-ART-Page-8_153: -861080016
+      PIXEL-ART-Page-8_16: 1779872654
+      PIXEL-ART-Page-8_17: -500247067
+      PIXEL-ART-Page-8_18: 2111948376
+      PIXEL-ART-Page-8_19: 453725669
+      PIXEL-ART-Page-8_2: -2103457303
+      PIXEL-ART-Page-8_20: 1773505225
+      PIXEL-ART-Page-8_21: 268677727
+      PIXEL-ART-Page-8_22: 2019884602
+      PIXEL-ART-Page-8_23: -716894272
+      PIXEL-ART-Page-8_24: 1459136551
+      PIXEL-ART-Page-8_25: -535751111
+      PIXEL-ART-Page-8_26: -1559057041
+      PIXEL-ART-Page-8_27: 1218724216
+      PIXEL-ART-Page-8_28: 363956540
+      PIXEL-ART-Page-8_29: 790711453
+      PIXEL-ART-Page-8_3: 1478081617
+      PIXEL-ART-Page-8_30: 251806255
+      PIXEL-ART-Page-8_31: 1571237561
+      PIXEL-ART-Page-8_32: 684096593
+      PIXEL-ART-Page-8_33: -1390560820
+      PIXEL-ART-Page-8_34: -174977234
+      PIXEL-ART-Page-8_35: -798757598
+      PIXEL-ART-Page-8_36: 1862825017
+      PIXEL-ART-Page-8_37: -962010760
+      PIXEL-ART-Page-8_38: -1133856373
+      PIXEL-ART-Page-8_39: -867957615
+      PIXEL-ART-Page-8_4: 2069936321
+      PIXEL-ART-Page-8_40: 599448963
+      PIXEL-ART-Page-8_41: -2115144304
+      PIXEL-ART-Page-8_42: 1067596832
+      PIXEL-ART-Page-8_43: 2060107949
+      PIXEL-ART-Page-8_44: -1666265164
+      PIXEL-ART-Page-8_45: -744585489
+      PIXEL-ART-Page-8_46: 271840057
+      PIXEL-ART-Page-8_47: 593655659
+      PIXEL-ART-Page-8_48: -1472860038
+      PIXEL-ART-Page-8_49: -1336987630
+      PIXEL-ART-Page-8_5: -956291459
+      PIXEL-ART-Page-8_50: -1839374162
+      PIXEL-ART-Page-8_51: -277297313
+      PIXEL-ART-Page-8_52: -566759292
+      PIXEL-ART-Page-8_53: -1389959720
+      PIXEL-ART-Page-8_54: 256646918
+      PIXEL-ART-Page-8_55: -974544190
+      PIXEL-ART-Page-8_56: -130142062
+      PIXEL-ART-Page-8_57: -1127235031
+      PIXEL-ART-Page-8_58: 1489595851
+      PIXEL-ART-Page-8_59: -247019398
+      PIXEL-ART-Page-8_6: 1170504954
+      PIXEL-ART-Page-8_60: -410934082
+      PIXEL-ART-Page-8_61: -292722535
+      PIXEL-ART-Page-8_62: 1870106384
+      PIXEL-ART-Page-8_63: -549979038
+      PIXEL-ART-Page-8_64: -1769787996
+      PIXEL-ART-Page-8_65: -2051967804
+      PIXEL-ART-Page-8_66: -357851201
+      PIXEL-ART-Page-8_67: -1920871656
+      PIXEL-ART-Page-8_68: -1516661758
+      PIXEL-ART-Page-8_69: -1154994272
+      PIXEL-ART-Page-8_7: -1305684275
+      PIXEL-ART-Page-8_70: -636824150
+      PIXEL-ART-Page-8_71: 2035362476
+      PIXEL-ART-Page-8_72: 1537563722
+      PIXEL-ART-Page-8_73: -429700970
+      PIXEL-ART-Page-8_74: -1481700695
+      PIXEL-ART-Page-8_75: -952505418
+      PIXEL-ART-Page-8_76: -750469425
+      PIXEL-ART-Page-8_77: -1595845429
+      PIXEL-ART-Page-8_78: -734119157
+      PIXEL-ART-Page-8_79: -824242148
+      PIXEL-ART-Page-8_8: 1609974384
+      PIXEL-ART-Page-8_80: -544515826
+      PIXEL-ART-Page-8_81: 1466646849
+      PIXEL-ART-Page-8_82: 1577252346
+      PIXEL-ART-Page-8_83: 1554682220
+      PIXEL-ART-Page-8_84: 1649411038
+      PIXEL-ART-Page-8_85: -729845641
+      PIXEL-ART-Page-8_86: -288915432
+      PIXEL-ART-Page-8_87: -1197893413
+      PIXEL-ART-Page-8_88: -2079764561
+      PIXEL-ART-Page-8_89: 183777463
+      PIXEL-ART-Page-8_9: 70494638
+      PIXEL-ART-Page-8_90: 763707378
+      PIXEL-ART-Page-8_91: 1544769431
+      PIXEL-ART-Page-8_92: -1661876625
+      PIXEL-ART-Page-8_93: -1497943032
+      PIXEL-ART-Page-8_94: -409351078
+      PIXEL-ART-Page-8_95: -1124388231
+      PIXEL-ART-Page-8_96: 199694695
+      PIXEL-ART-Page-8_97: 354218448
+      PIXEL-ART-Page-8_98: 1699271578
+      PIXEL-ART-Page-8_99: -1213285802
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

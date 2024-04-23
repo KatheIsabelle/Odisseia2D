@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: 259defe09571f5848bc78fbba1ffa7a7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9de32a8f2b223f45bd7cbbf30e0468a
+      internalID: 1453169516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d678238f6fe614196549359193165a
+      internalID: 1495501458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5ccdb4c13ceb3419c71bc20b3d3aec
+      internalID: -1007548698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7997a96902aa154997c79a5277cc53e
+      internalID: 455168512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f913a90cc22dfc4d9d1ef5f44d84218
+      internalID: -167351188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 240
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0df149691c5fc429fb4600a9dc1f4d
+      internalID: 728174277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89a715fbc54aae4fadf391b781e24da
+      internalID: -1772767460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 160
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf9b63996e26584ab34de6bb64ecadb
+      internalID: -230327573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fbe9ff8cbc8c043befff9dfff8968b
+      internalID: 654880101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a569c44951628fe4e88314cc3acc61bf
+      internalID: -1855763726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97fef9db3237084788be1893efda5bc
+      internalID: 1724838687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5279afe2b7257e43abe435704b2fdce
+      internalID: -1857468292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_28
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417c2aed270526d40ad04777d321228e
+      internalID: -1155747589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2e0d74eed504f4fbe566ac12eb5db9
+      internalID: 2040004727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d121341f1dcfe8f44bc104e0ea465883
+      internalID: -903394526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51febef463486404683efb5b06d48b43
+      internalID: -312218951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b787f6d92ecb148439b21085dbe014f4
+      internalID: -428899809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_33
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1fe9d891e55af4e9be3088235b2d36
+      internalID: -985603612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36c91f60a2782b4288d580e67422bcc
+      internalID: -2009859605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83153ff3ab4887f41b4916cba66008b0
+      internalID: 2048832549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: space_station_tileset_by_braqoon_d387qhd-375w-2x_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 197
+        width: 274
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4074e3fb95adfb4db5894b37167ab21
+      internalID: -598852174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_0: -598852174
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_1: -1705619030
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_10: -1007548698
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_11: 455168512
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_12: -1736018047
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_13: -1626226935
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_14: -1447645122
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_15: -1500118509
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_16: -167351188
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_17: 728174277
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_18: 1759414736
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_19: -1906941963
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_2: 160524496
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_20: -341584650
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_21: 1969487320
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_22: -1772767460
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_23: -230327573
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_24: 654880101
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_25: -1855763726
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_26: 1724838687
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_27: -1857468292
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_28: -1155747589
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_29: 2040004727
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_3: -1403586487
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_30: -903394526
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_31: -312218951
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_32: -428899809
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_33: -985603612
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_34: -2009859605
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_35: 2048832549
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_4: 1453169516
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_5: 1495501458
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_6: -1691172018
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_7: 503190671
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_8: 162063694
+      space_station_tileset_by_braqoon_d387qhd-375w-2x_9: -8679011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

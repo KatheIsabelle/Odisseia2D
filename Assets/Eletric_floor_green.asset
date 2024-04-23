@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Eletric_floor_green
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 756972165, guid: c6871a6d7f9979f49b6a4f82cabf6441, type: 3}
+  - {fileID: 2034704439, guid: c6871a6d7f9979f49b6a4f82cabf6441, type: 3}
+  - {fileID: -1859374754, guid: c6871a6d7f9979f49b6a4f82cabf6441, type: 3}
+  - {fileID: -1981047084, guid: c6871a6d7f9979f49b6a4f82cabf6441, type: 3}
+  - {fileID: -894818881, guid: c6871a6d7f9979f49b6a4f82cabf6441, type: 3}
+  - {fileID: -983632015, guid: c6871a6d7f9979f49b6a4f82cabf6441, type: 3}
+  - {fileID: -2017787249, guid: c6871a6d7f9979f49b6a4f82cabf6441, type: 3}
+  - {fileID: -2099850131, guid: c6871a6d7f9979f49b6a4f82cabf6441, type: 3}
+  - {fileID: -367556012, guid: c6871a6d7f9979f49b6a4f82cabf6441, type: 3}
+  - {fileID: -861965645, guid: c6871a6d7f9979f49b6a4f82cabf6441, type: 3}
+  - {fileID: 1863914340, guid: c6871a6d7f9979f49b6a4f82cabf6441, type: 3}
+  - {fileID: 1519780549, guid: c6871a6d7f9979f49b6a4f82cabf6441, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 2
+  m_TileAnimationFlags: 0

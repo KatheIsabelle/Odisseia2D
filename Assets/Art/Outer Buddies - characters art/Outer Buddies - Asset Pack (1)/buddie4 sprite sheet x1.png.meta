@@ -1,0 +1,2670 @@
+fileFormatVersion: 2
+guid: 78a4c972ce4585945bd7aa0cbbc14394
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 927
+        width: 14
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4704295, y: 0.50719297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b1cfe6ca8c7b74a9773c398531a04c
+      internalID: -381280189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b15e96ac6257c941b0d584bfc979ffc
+      internalID: 566927527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 864
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46f79e9d27aa9b4782ce93b62775c05
+      internalID: 1802727380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 864
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a973ed4b21e8f42b3e712770a15bc7
+      internalID: 1497183339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 864
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1c8d5c28a57454cbdd88320b6ce900
+      internalID: -423804852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.51063824, y: 0.35409692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec61fcffaf4e2e46b0a7ae0cf60fa48
+      internalID: 318392707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 800
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.55319273, y: 0.36072886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d4211272903be4783981008f01039d
+      internalID: 1717418622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 800
+        width: 31
+        height: 22
+      alignment: 9
+      pivot: {x: 0.56589013, y: 0.31430608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a92f25e897253499dc232955fa2460
+      internalID: -1783101524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_8
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 800
+        width: 33
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5825295, y: 0.31430608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650c0d0900fe2fa42a63b1923bbac05f
+      internalID: -1069811801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 800
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.57447004, y: 0.31430608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ef9d087af431b4495a629f8d20d3fd
+      internalID: 1801693760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 800
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.595747, y: 0.25683013}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62719c5b81510f44da298e139a224a1e
+      internalID: -925378402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 800
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.56383085, y: 0.20819673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0c87f7faf6c4e4bab73d4f2e451503
+      internalID: 763497226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 800
+        width: 31
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5549085, y: 0.30546352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7c9ae3044e0334fa8a8ccf6db99c87
+      internalID: -2026600059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5531925, y: 0.49999723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce471b0ba76647479e135ba762fd016
+      internalID: 1731064979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 768
+        width: 33
+        height: 22
+      alignment: 9
+      pivot: {x: 0.53094816, y: 0.5154724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded43ad6077792d45b7c67b11294b1e8
+      internalID: -742993807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_15
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 768
+        width: 31
+        height: 22
+      alignment: 9
+      pivot: {x: 0.56589043, y: 0.49999723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68af46328e8f8544cac05421c4bc78c7
+      internalID: -789948906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.51063824, y: 0.3127594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37709afa84247a4e8f325e1b170d15a
+      internalID: -177942383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 704
+        width: 31
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.26169434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a7324d743a5f840828631ee6cc5716
+      internalID: 1538025921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 31
+        height: 20
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.34680176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b994a0855ea0db249b10948202bed193
+      internalID: 1558167535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 704
+        width: 30
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5340429, y: 0.3127594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199fc59da395d6944a24c7b2d3af012b
+      internalID: -66323282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 704
+        width: 33
+        height: 20
+      alignment: 9
+      pivot: {x: 0.49999952, y: 0.34680176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209d9a371de54f243a51e5877d4761c0
+      internalID: 2112791723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.44893187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209c4591b10b1d346a684d23724b7612
+      internalID: -1279045240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 672
+        width: 33
+        height: 20
+      alignment: 9
+      pivot: {x: 0.49999964, y: 0.43191224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48df83b27040634439c51105cd480824
+      internalID: 2036599016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_23
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 672
+        width: 31
+        height: 20
+      alignment: 9
+      pivot: {x: 0.4890181, y: 0.44893187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a2a4e1667e0a74bb17981465836957
+      internalID: 1443301065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 672
+        width: 31
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5329452, y: 0.4659546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4784cfd460bc6c40a26ec5ece2be556
+      internalID: 1936843417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 672
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.39786682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5efae3d15bddc4bac5549eb54a3d91
+      internalID: 111090550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 32
+        height: 19
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.41041002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af5826a3840c8f48a974361c2328865
+      internalID: -1720646454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 576
+        width: 32
+        height: 19
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.35665733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6597edf54c0a304690227b383dee14c
+      internalID: 473418223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 33
+        height: 19
+      alignment: 9
+      pivot: {x: 0.48968366, y: 0.33873868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f5b1bd05f348344b1ef498ec32208b
+      internalID: 1235723390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.47872254, y: 0.4189424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d370df6833e6e4992bf7cecf29c2df
+      internalID: 1393937219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 31
+        height: 21
+      alignment: 9
+      pivot: {x: 0.53294533, y: 0.28925434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7200bfb30bc3a144a28c96d8ac5f761
+      internalID: 1429399469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 31
+        height: 21
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.4189424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d92c2b587da0e541bc204679e69a8b8
+      internalID: 1573613882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 512
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5212767, y: 0.3378877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33444d439191e6c4891ca1bdfde72ebd
+      internalID: -79066231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 31
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.40273175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb76c4bcad694b408798d4cb0370884
+      internalID: -856863310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_38
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 31
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5109819, y: 0.2568316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be7a130984cb464ca8599585d0bf16c
+      internalID: 139184372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 31
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5109814, y: 0.37030903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca23a749b343b454c9eeea3998bd9a1a
+      internalID: -827352046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.30546352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6feea9c811356468c988fd0a8f4a8c
+      internalID: -1732637474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.3378877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4e3fae954d20e49906196aef061a5b
+      internalID: -616537176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.3378877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adafb5af2f2c1d4c8c5c95350f9743c
+      internalID: 366309047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 31
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5109814, y: 0.37030903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5984935ee0741134e993e7b0b2bc4f23
+      internalID: -1204843390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.48936105, y: 0.22440884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bd6544d3d7d044489a891d0f3114b3
+      internalID: 2048999466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.37030903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4c80842d13a784f8245fb8d458fe81
+      internalID: -1097872000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.28925288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ea1fab5c525e44ba70bd9060215544
+      internalID: -1908492026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37030903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ad225ca2bdefd43bc94e280fc926aa
+      internalID: 1277879154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.2568316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c26be54187efa249a9610bdabe6970c
+      internalID: 1612183214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.3865211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dd6c683774a204ca1bf5b2ccc24c2f
+      internalID: 305416312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_50
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 33
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5103159, y: 0.27304077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8f5254d66645a439cea61aad58e8b6
+      internalID: -1922910918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_51
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 384
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.49999952, y: 0.28925434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd3d16eabc8e34489cf1472f61ae66b
+      internalID: -2088797690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 383
+        width: 33
+        height: 22
+      alignment: 9
+      pivot: {x: 0.469051, y: 0.2524095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8745ce0a5cf24da45a8ec7fd1010a8ce
+      internalID: -725251219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.49999967, y: 0.29883367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3c51ac3c5b8ec4aa6dbfbe5f486a37
+      internalID: 5478936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_54
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 31
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5109819, y: 0.2833599}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cb9fa302f84d84db6f9603825f1c24
+      internalID: 75608537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 31
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5109814, y: 0.2214619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4ec19ee1fcfe546b3755ae40c03cbd
+      internalID: -132945583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 31
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4890181, y: 0.23693709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4695ef2c925e347808021c7da40fe5
+      internalID: 363243437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 30
+        height: 22
+      alignment: 9
+      pivot: {x: 0.4999995, y: 0.17503911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f95b22306eac754bb1d40725de79d83
+      internalID: 682404453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2214619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d077e922a20f549bfa3f50eb096070
+      internalID: -1470521587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.53191537, y: 0.36382598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15d35bf875d6eb4aa3bb1f92f15bcc4
+      internalID: 1078679561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.55319273, y: 0.36382598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375d5e4fd6bd6d342b66c5a3545b899a
+      internalID: 1549146885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17658691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dca52a85a5bc2f43bd7c585b9833767
+      internalID: -686336230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.2106308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5584ed0d4c47dc44ca723f51022804f2
+      internalID: -1083236167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 31
+        height: 20
+      alignment: 9
+      pivot: {x: 0.47803572, y: 0.26169586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96914193647ba744baf385444abc014
+      internalID: -1233300523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_64
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5425544, y: 0.26169586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09504d15b1cddf04480cb60f2b913595
+      internalID: 1569465213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.54255396, y: 0.3378877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50dd7399c23d744caa5b990867942e0
+      internalID: -883049729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.53191555, y: 0.35409838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662faf3494c29b6409918f1ed356ab3a
+      internalID: 1649680786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2568316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409dcf735ab117e4583d2bb00464b4a7
+      internalID: 1496631608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4468069, y: 0.27304223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956a58f53215e64438c9c5879024be79
+      internalID: -1457085952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2568316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659edcbb4935ddb43a5f96e347e3d976
+      internalID: -724154983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.53191566, y: 0.24062093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bc5fe00ee4fc840ac57da54a306fee
+      internalID: -1127620943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.51063824, y: 0.22441028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763c1839c5d1b7a488aade6f097ac273
+      internalID: -275898617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.28925434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7216be5b7f56f4abc6866f10295d32
+      internalID: -1415197631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_73
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24062093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff88af6cd9669e4db7a6a785642d413
+      internalID: 1844467664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_74
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.47872257, y: 0.2568323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2729985a125bb4c43abd8170542444c6
+      internalID: 234291737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_75
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2568323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c54714acef588b4e8e816dbbd18e649
+      internalID: -1114330651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_76
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.53191566, y: 0.22441028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63223654d7b040448931c5a42316b9e1
+      internalID: -347549887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.51063824, y: 0.30546424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3c987de9bac954e950bb95dde09204
+      internalID: -720570394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5106385, y: 0.37030903}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bea2b21b6718f44193e800775b21454
+      internalID: -1438140649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.30546424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3003af3192ae616438b7f90bbfc70d77
+      internalID: -62512822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.29883298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8583c96ee6e5c1a4192b6947440a113a
+      internalID: 1693724551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2524102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3761bcc5e225042b16ba156f135352
+      internalID: -1192087470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5212774, y: 0.19051361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a7e171fa3839147ac04aa8adccbce9
+      internalID: 787255397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 31
+        height: 18
+      alignment: 9
+      pivot: {x: 0.47803643, y: 0.23521763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7045da72581dd84da39aa0a434c7293
+      internalID: 1807725454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 31
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5109819, y: 0.31086984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268732e0451c1864e864b5f933bf6b96
+      internalID: -307932597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_85
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 31
+        height: 18
+      alignment: 9
+      pivot: {x: 0.52196306, y: 0.34869555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21094aa6c7cfeac47b692fe397710e69
+      internalID: -2037606420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_86
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 31
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35665733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff530b333c98aa48ae10031a65fd3b2
+      internalID: -41436588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_87
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cee9bf759b71048bcb9f4d1b5cbf57
+      internalID: 338821844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2966122b9a77b94bacc00d7ca62e879
+      internalID: 39164321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c49304993355b34394069a2ec771b87
+      internalID: -2025055414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_90
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a36fa59b8f374f4f88c09190fc24811
+      internalID: 1241651527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.4255297, y: 0.27871743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8979d166f759e484b9594bee6b04f00e
+      internalID: -799131978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_92
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.4893613, y: 0.22765236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7e22b9c845b7e4280aaecf810fcef4
+      internalID: -661348665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.295739}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a9c4436ff871a459b074a0dda21386
+      internalID: -505504935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_94
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 20
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.22765236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182fd3e4cd76b8f46b11045c857956e5
+      internalID: 709020279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0d24f7d1f43db4693ba739f1c30b7d
+      internalID: 982420340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_96
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a32ac552999490498372e374955802d
+      internalID: -1555833421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_97
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9142f81ec14c046b5483f244730a44
+      internalID: -1963429592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_98
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c066b08cf0e0464ca3e4ff5331ec92c
+      internalID: -1692081285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.44999397, y: 0.34939307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2dffbf2206c5d42b2f1b04f761dbf7
+      internalID: -978907549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38704503}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff34b7730eec6a4da6baf7264b6fdda
+      internalID: -67459626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.3305673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235e6a6de1461f444b4b3464c18af510
+      internalID: -532600468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.49999976, y: 0.40587077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e5e0ac388b5a7499b56cb18957b9e1
+      internalID: 882558955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c05222f9a5e9f84ea07907232657910
+      internalID: -385564152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa1cf1abfa3d37408d6866c85dfdd51
+      internalID: 1545390387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e211ae0a105f9e848a9cc42bf2ee1987
+      internalID: -423385144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210e410bf2eeea646b9ca4b94c22c8ab
+      internalID: 1291241103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 19
+      alignment: 9
+      pivot: {x: 0.44999397, y: 0.23049164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba0227a218c48d49bbd6d6b50d04780
+      internalID: -26638731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 19
+      alignment: 9
+      pivot: {x: 0.4899987, y: 0.28102413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5ffcceee1b2f044bb23257981176f8
+      internalID: 1574435960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5100012, y: 0.21364754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd0b071401fbae47af26b1f44d491df
+      internalID: 472913596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_110
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5200021, y: 0.26417983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59b02f9feb36ff48965fc8a271d3e25
+      internalID: 286201985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d846c7887acfea24eb935861a70a838b
+      internalID: -188958190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_112
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686db98915822a046b1bb6c3c3965829
+      internalID: -239702435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_113
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d095a8ff74d844f9e3d081228f0841
+      internalID: -1405174406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_114
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e40e887684c093409f9a18e52478925
+      internalID: -1487673398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 31
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5109817, y: 0.30290464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f65c09a922a10244a7b25e9b9dad43d
+      internalID: -1322226368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 608
+        width: 32
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5106385, y: 0.35665733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd99924fb1e47d1488313c1af1d990e1
+      internalID: 248988820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 608
+        width: 30
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41041002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eec750d5665b8940b98ca1ca2ef0ea4
+      internalID: 1663638560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buddie4 sprite sheet x1_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 576
+        width: 31
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37457597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643d76f72cf84be488513aa0220822f8
+      internalID: 1112072480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      buddie4 sprite sheet x1_0: -381280189
+      buddie4 sprite sheet x1_1: 566927527
+      buddie4 sprite sheet x1_10: -925378402
+      buddie4 sprite sheet x1_100: -67459626
+      buddie4 sprite sheet x1_101: -532600468
+      buddie4 sprite sheet x1_102: 882558955
+      buddie4 sprite sheet x1_103: -385564152
+      buddie4 sprite sheet x1_104: 1545390387
+      buddie4 sprite sheet x1_105: -423385144
+      buddie4 sprite sheet x1_106: 1291241103
+      buddie4 sprite sheet x1_107: -26638731
+      buddie4 sprite sheet x1_108: 1574435960
+      buddie4 sprite sheet x1_109: 472913596
+      buddie4 sprite sheet x1_11: 763497226
+      buddie4 sprite sheet x1_110: 286201985
+      buddie4 sprite sheet x1_111: -188958190
+      buddie4 sprite sheet x1_112: -239702435
+      buddie4 sprite sheet x1_113: -1405174406
+      buddie4 sprite sheet x1_114: -1487673398
+      buddie4 sprite sheet x1_12: -2026600059
+      buddie4 sprite sheet x1_13: 1731064979
+      buddie4 sprite sheet x1_14: -742993807
+      buddie4 sprite sheet x1_15: -789948906
+      buddie4 sprite sheet x1_16: -177942383
+      buddie4 sprite sheet x1_17: 1538025921
+      buddie4 sprite sheet x1_18: 1558167535
+      buddie4 sprite sheet x1_19: -66323282
+      buddie4 sprite sheet x1_2: 1802727380
+      buddie4 sprite sheet x1_20: 2112791723
+      buddie4 sprite sheet x1_21: -1279045240
+      buddie4 sprite sheet x1_22: 2036599016
+      buddie4 sprite sheet x1_23: 1443301065
+      buddie4 sprite sheet x1_24: 1936843417
+      buddie4 sprite sheet x1_25: 111090550
+      buddie4 sprite sheet x1_26: -1322226368
+      buddie4 sprite sheet x1_27: 248988820
+      buddie4 sprite sheet x1_28: 1663638560
+      buddie4 sprite sheet x1_29: -1720646454
+      buddie4 sprite sheet x1_3: 1497183339
+      buddie4 sprite sheet x1_30: 473418223
+      buddie4 sprite sheet x1_31: 1235723390
+      buddie4 sprite sheet x1_32: 1112072480
+      buddie4 sprite sheet x1_33: 1393937219
+      buddie4 sprite sheet x1_34: 1429399469
+      buddie4 sprite sheet x1_35: 1573613882
+      buddie4 sprite sheet x1_36: -79066231
+      buddie4 sprite sheet x1_37: -856863310
+      buddie4 sprite sheet x1_38: 139184372
+      buddie4 sprite sheet x1_39: -827352046
+      buddie4 sprite sheet x1_4: -423804852
+      buddie4 sprite sheet x1_40: -1732637474
+      buddie4 sprite sheet x1_41: -616537176
+      buddie4 sprite sheet x1_42: 366309047
+      buddie4 sprite sheet x1_43: -1204843390
+      buddie4 sprite sheet x1_44: 2048999466
+      buddie4 sprite sheet x1_45: -1097872000
+      buddie4 sprite sheet x1_46: -1908492026
+      buddie4 sprite sheet x1_47: 1277879154
+      buddie4 sprite sheet x1_48: 1612183214
+      buddie4 sprite sheet x1_49: 305416312
+      buddie4 sprite sheet x1_5: 318392707
+      buddie4 sprite sheet x1_50: -1922910918
+      buddie4 sprite sheet x1_51: -2088797690
+      buddie4 sprite sheet x1_52: -725251219
+      buddie4 sprite sheet x1_53: 5478936
+      buddie4 sprite sheet x1_54: 75608537
+      buddie4 sprite sheet x1_55: -132945583
+      buddie4 sprite sheet x1_56: 363243437
+      buddie4 sprite sheet x1_57: 682404453
+      buddie4 sprite sheet x1_58: -1470521587
+      buddie4 sprite sheet x1_59: 1078679561
+      buddie4 sprite sheet x1_6: 1717418622
+      buddie4 sprite sheet x1_60: 1549146885
+      buddie4 sprite sheet x1_61: -686336230
+      buddie4 sprite sheet x1_62: -1083236167
+      buddie4 sprite sheet x1_63: -1233300523
+      buddie4 sprite sheet x1_64: 1569465213
+      buddie4 sprite sheet x1_65: -883049729
+      buddie4 sprite sheet x1_66: 1649680786
+      buddie4 sprite sheet x1_67: 1496631608
+      buddie4 sprite sheet x1_68: -1457085952
+      buddie4 sprite sheet x1_69: -724154983
+      buddie4 sprite sheet x1_7: -1783101524
+      buddie4 sprite sheet x1_70: -1127620943
+      buddie4 sprite sheet x1_71: -275898617
+      buddie4 sprite sheet x1_72: -1415197631
+      buddie4 sprite sheet x1_73: 1844467664
+      buddie4 sprite sheet x1_74: 234291737
+      buddie4 sprite sheet x1_75: -1114330651
+      buddie4 sprite sheet x1_76: -347549887
+      buddie4 sprite sheet x1_77: -720570394
+      buddie4 sprite sheet x1_78: -1438140649
+      buddie4 sprite sheet x1_79: -62512822
+      buddie4 sprite sheet x1_8: -1069811801
+      buddie4 sprite sheet x1_80: 1693724551
+      buddie4 sprite sheet x1_81: -1192087470
+      buddie4 sprite sheet x1_82: 787255397
+      buddie4 sprite sheet x1_83: 1807725454
+      buddie4 sprite sheet x1_84: -307932597
+      buddie4 sprite sheet x1_85: -2037606420
+      buddie4 sprite sheet x1_86: -41436588
+      buddie4 sprite sheet x1_87: 338821844
+      buddie4 sprite sheet x1_88: 39164321
+      buddie4 sprite sheet x1_89: -2025055414
+      buddie4 sprite sheet x1_9: 1801693760
+      buddie4 sprite sheet x1_90: 1241651527
+      buddie4 sprite sheet x1_91: -799131978
+      buddie4 sprite sheet x1_92: -661348665
+      buddie4 sprite sheet x1_93: -505504935
+      buddie4 sprite sheet x1_94: 709020279
+      buddie4 sprite sheet x1_95: 982420340
+      buddie4 sprite sheet x1_96: -1555833421
+      buddie4 sprite sheet x1_97: -1963429592
+      buddie4 sprite sheet x1_98: -1692081285
+      buddie4 sprite sheet x1_99: -978907549
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

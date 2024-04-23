@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e9920216687bf6046844480762c45f81
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Rubik Doodle Shadow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a3d6ba61a474c7641b18c2c1459d09b4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

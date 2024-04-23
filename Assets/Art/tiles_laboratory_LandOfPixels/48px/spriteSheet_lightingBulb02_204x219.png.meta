@@ -1,0 +1,932 @@
+fileFormatVersion: 2
+guid: 49ee713fa7fab44458f5dbf8d945ab0c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1095
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b30fb1bef911347aa3763cfdf1afa0
+      internalID: 503229716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1095
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2f7d129001088499e20c201abf2f84
+      internalID: -1184398002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1095
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e86feb0a27569844839c7372bfa6202
+      internalID: 1974764884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1095
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af51275950f3494fb4fe5d13014b0c7
+      internalID: -1020433352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1095
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14813a27611551141a1dae52724b5b2c
+      internalID: -569352959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_5
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1095
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3b1b81a9831f846ba9471df77fbca4
+      internalID: 1948707802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a838758e6edf64b800e7e6107a2fd4
+      internalID: -1896021281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_7
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 876
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b931f64fff6f2248984b4e363994505
+      internalID: 1919263020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 876
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2a5e1113eb12b4ab16f5201282f9fc
+      internalID: -1700775008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 876
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de97c471fb675fa4fa6bc622a1d8c07d
+      internalID: -1148070841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_10
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 876
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9d1b2b2b4e0b04fb75c5fc250d66fa
+      internalID: 1757269324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_11
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 876
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6268d99ac90e9ed4086466d79ac9b0fd
+      internalID: -1635974037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347a8ea305ca6b743b4a49074addde4f
+      internalID: -1038731588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_13
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 657
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af07d36cbd758f649af97e9abc7ee1af
+      internalID: -2036157817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 657
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2ce9edbbfd94043bebd6e06fcca775
+      internalID: 1476169829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_15
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 657
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36169e9945a40d24788af223963778db
+      internalID: 1192488089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_16
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 657
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7ad59a85c7082428cd3f841c803429
+      internalID: 2032285708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_17
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 657
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af07525f27460774f9825fc07bf158c2
+      internalID: -1068269340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 438
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5696a88c33328419ed884b9111117c
+      internalID: -1589839990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 438
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f15a4917f0a7e4baa7636ec0a61d45
+      internalID: 969336455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 438
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb14824bbe806434dbdb52d3abe6f491
+      internalID: -467114508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_21
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 438
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459db1be18bb2dc43b98ad0a5af1ffad
+      internalID: 943451695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_22
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 438
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebbe6623b82b7e48a711b7d4f1df32d
+      internalID: 1701481997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_23
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 438
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0be3440396f0164ab92bb74f87bb25b
+      internalID: -1012743664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce60cdcc4ea704b4296e84023be55243
+      internalID: 1836504337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_25
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 219
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2dccdf4215a314ca5f6c912e833e98
+      internalID: -1709207272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_26
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 219
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20819e4582744984ca366a1fa159022d
+      internalID: -468485644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_27
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 219
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d252ea6bc0fce544990e661d75b997b
+      internalID: -1935476036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_28
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 219
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7380bb9eb3b954fa4b4ff83c1d78a5
+      internalID: 1001717224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_29
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 219
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed974e6ffbabfa748b7bb0c006793420
+      internalID: 1775534617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acff32bf55ae5e943a97b4795c038a27
+      internalID: -1794440019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e594775c15962c47a6c3d1793780c52
+      internalID: -430246580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_32
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7114209bb37b3240a3ea286c1ed8a38
+      internalID: 1580916852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_33
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2927ae885ab95af40867dc7028f33776
+      internalID: -1971699035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_34
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ac39c71f1f11f4e906f45b35e511fe
+      internalID: 2124608799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spriteSheet_lightingBulb02_204x219_35
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 204
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f985072a73dc0bc46b3a688aeefdce07
+      internalID: -118533228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spriteSheet_lightingBulb02_204x219_0: 503229716
+      spriteSheet_lightingBulb02_204x219_1: -1184398002
+      spriteSheet_lightingBulb02_204x219_10: 1757269324
+      spriteSheet_lightingBulb02_204x219_11: -1635974037
+      spriteSheet_lightingBulb02_204x219_12: -1038731588
+      spriteSheet_lightingBulb02_204x219_13: -2036157817
+      spriteSheet_lightingBulb02_204x219_14: 1476169829
+      spriteSheet_lightingBulb02_204x219_15: 1192488089
+      spriteSheet_lightingBulb02_204x219_16: 2032285708
+      spriteSheet_lightingBulb02_204x219_17: -1068269340
+      spriteSheet_lightingBulb02_204x219_18: -1589839990
+      spriteSheet_lightingBulb02_204x219_19: 969336455
+      spriteSheet_lightingBulb02_204x219_2: 1974764884
+      spriteSheet_lightingBulb02_204x219_20: -467114508
+      spriteSheet_lightingBulb02_204x219_21: 943451695
+      spriteSheet_lightingBulb02_204x219_22: 1701481997
+      spriteSheet_lightingBulb02_204x219_23: -1012743664
+      spriteSheet_lightingBulb02_204x219_24: 1836504337
+      spriteSheet_lightingBulb02_204x219_25: -1709207272
+      spriteSheet_lightingBulb02_204x219_26: -468485644
+      spriteSheet_lightingBulb02_204x219_27: -1935476036
+      spriteSheet_lightingBulb02_204x219_28: 1001717224
+      spriteSheet_lightingBulb02_204x219_29: 1775534617
+      spriteSheet_lightingBulb02_204x219_3: -1020433352
+      spriteSheet_lightingBulb02_204x219_30: -1794440019
+      spriteSheet_lightingBulb02_204x219_31: -430246580
+      spriteSheet_lightingBulb02_204x219_32: 1580916852
+      spriteSheet_lightingBulb02_204x219_33: -1971699035
+      spriteSheet_lightingBulb02_204x219_34: 2124608799
+      spriteSheet_lightingBulb02_204x219_35: -118533228
+      spriteSheet_lightingBulb02_204x219_4: -569352959
+      spriteSheet_lightingBulb02_204x219_5: 1948707802
+      spriteSheet_lightingBulb02_204x219_6: -1896021281
+      spriteSheet_lightingBulb02_204x219_7: 1919263020
+      spriteSheet_lightingBulb02_204x219_8: -1700775008
+      spriteSheet_lightingBulb02_204x219_9: -1148070841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
