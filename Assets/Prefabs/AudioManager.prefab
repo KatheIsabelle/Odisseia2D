@@ -184,6 +184,12 @@ MonoBehaviour:
   - groundID: SliderClick
     clips:
     - {fileID: 8300000, guid: 42e65f10421f9fd478b8d40c79300455, type: 3}
+  - groundID: MenuSound
+    clips:
+    - {fileID: 8300000, guid: a72a6a928422fda4aadfe11e46f0a992, type: 3}
+  - groundID: LevelSound
+    clips:
+    - {fileID: 8300000, guid: b2fa250f74305b14ebfe645e044d6fe1, type: 3}
 --- !u!114 &3807529906869112990
 MonoBehaviour:
   m_ObjectHideFlags: 0

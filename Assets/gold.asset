@@ -13,10 +13,20 @@ MonoBehaviour:
   m_Name: gold
   m_EditorClassIdentifier: 
   m_AnimatedSprites:
-  - {fileID: 21300000, guid: 6738a30ba1a416948a05188d05c157a5, type: 3}
-  - {fileID: 21300000, guid: b440604901a3dba48913c4480702fb6e, type: 3}
-  - {fileID: 21300000, guid: c870217530680b94e96d797c37867fdc, type: 3}
-  - {fileID: 21300000, guid: 9c580451b99f6f64884880f0c078ff5a, type: 3}
+  - {fileID: 940066472, guid: 854efaa67a781054b93def1dbd3c1d9f, type: 3}
+  - {fileID: 1489563057, guid: 854efaa67a781054b93def1dbd3c1d9f, type: 3}
+  - {fileID: -1100540282, guid: 854efaa67a781054b93def1dbd3c1d9f, type: 3}
+  - {fileID: -604028161, guid: 854efaa67a781054b93def1dbd3c1d9f, type: 3}
+  - {fileID: -789959829, guid: 854efaa67a781054b93def1dbd3c1d9f, type: 3}
+  - {fileID: 2022387803, guid: 854efaa67a781054b93def1dbd3c1d9f, type: 3}
+  - {fileID: -1219230852, guid: 854efaa67a781054b93def1dbd3c1d9f, type: 3}
+  - {fileID: -1543208406, guid: 854efaa67a781054b93def1dbd3c1d9f, type: 3}
+  - {fileID: -1929290060, guid: 854efaa67a781054b93def1dbd3c1d9f, type: 3}
+  - {fileID: 1243770628, guid: 854efaa67a781054b93def1dbd3c1d9f, type: 3}
+  - {fileID: -552136635, guid: 854efaa67a781054b93def1dbd3c1d9f, type: 3}
+  - {fileID: -210163752, guid: 854efaa67a781054b93def1dbd3c1d9f, type: 3}
+  - {fileID: 1519278761, guid: 854efaa67a781054b93def1dbd3c1d9f, type: 3}
+  - {fileID: 0}
   m_MinSpeed: 10
   m_MaxSpeed: 10
   m_AnimationStartTime: 0

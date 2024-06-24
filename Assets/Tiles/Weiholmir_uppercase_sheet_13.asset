@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Weiholmir_uppercase_sheet_13
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 334637609, guid: c2c23073e2cf4b44fb56d5cc5efea6ed, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9716981, g: 0.050418302, b: 0.050418302, a: 1}
   m_Transform:
     e00: 1
     e01: 0
