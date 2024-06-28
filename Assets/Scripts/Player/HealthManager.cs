@@ -79,6 +79,7 @@ public class HealthManager : MonoBehaviour
                 }
             }
         }
+
     }
 
     public void TriggerDeathAndRespawn()

@@ -9,7 +9,7 @@ public class MainMenu : MonoBehaviour
 {
     public void Start()
     {
-        SoundManager.Instance.PlaySound2D("MenuSound");
+        SoundManager.Instance.PlaySound2D("LevelSound");
     }
 
     public void OnClickPlay()
@@ -17,7 +17,7 @@ public class MainMenu : MonoBehaviour
         if (LoadingScreenManager.Instance != null)
         {
             LoadingScreenManager.Instance.SwitchToScene(1);
-            SoundManager.Instance.StopSound2D("MenuSound");
+            //SoundManager.Instance.StopSound2D("MenuSound");
             SoundManager.Instance.PlaySound2D("LevelSound");
         }
         else
@@ -40,7 +40,7 @@ public class MainMenu : MonoBehaviour
     {
         if (SceneManager.GetActiveScene().buildIndex == 1) 
         {
-          SoundManager.Instance.StopSound2D("MenuSound");
+          //SoundManager.Instance.StopSound2D("MenuSound");
           SoundManager.Instance.PlaySound2D("LevelSound");
         }
     }

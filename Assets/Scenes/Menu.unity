@@ -9383,7 +9383,7 @@ PrefabInstance:
         type: 3}
       propertyPath: soundEffects.Array.data[3].clips.Array.data[0]
       value: 
-      objectReference: {fileID: 8300000, guid: a72a6a928422fda4aadfe11e46f0a992, type: 3}
+      objectReference: {fileID: 8300000, guid: b2fa250f74305b14ebfe645e044d6fe1, type: 3}
     - target: {fileID: 3548536819013749819, guid: c5764c6177e0cb7438dafcbe721838db,
         type: 3}
       propertyPath: soundEffects.Array.data[4].clips.Array.data[0]
