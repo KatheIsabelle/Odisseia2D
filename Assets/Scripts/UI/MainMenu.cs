@@ -7,6 +7,7 @@ using System.Runtime.Serialization.Formatters;
 
 public class MainMenu : MonoBehaviour
 {
+    public string nextSceneName;
     public void Start()
     {
         SoundManager.Instance.PlaySound2D("LevelSound");
@@ -16,7 +17,7 @@ public class MainMenu : MonoBehaviour
     {
         if (LoadingScreenManager.Instance != null)
         {
-            LoadingScreenManager.Instance.SwitchToScene(1);
+            LoadingScreenManager.Instance.SwitchToScene(nextSceneName);
             //SoundManager.Instance.StopSound2D("MenuSound");
             SoundManager.Instance.PlaySound2D("LevelSound");
         }
