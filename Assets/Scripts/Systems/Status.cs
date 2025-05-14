@@ -4,7 +4,8 @@ using System.Collections.Generic;
 using System;
 
 public class Status : MonoBehaviour
-{
+{   
+
     public static Status Instance;
 
     // pontos (A, B, C, D) aos seus valores (0 ou 1)
@@ -19,18 +20,20 @@ public class Status : MonoBehaviour
     public TMP_Text textoPontoD;
 
     void Start()
-    {
+    {   
+
         // Associe cada componente de texto aos pontos correspondentes
         textoPontoA = GameObject.FindWithTag("PontoA").GetComponent<TMP_Text>();
         textoPontoB = GameObject.FindWithTag("PontoB").GetComponent<TMP_Text>();
         textoPontoC = GameObject.FindWithTag("PontoC").GetComponent<TMP_Text>();
         textoPontoD = GameObject.FindWithTag("PontoD").GetComponent<TMP_Text>();
 
-        // Inicialize os valores para cada ponto:zero
-        valoresPorPonto.Add("A", 0); 
-        valoresPorPonto.Add("B", 0);
-        valoresPorPonto.Add("C", 0);
-        valoresPorPonto.Add("D", 0);
+        // Inicialize os valores para cada ponto:um
+        valoresPorPonto.Add("A", 1); 
+        valoresPorPonto.Add("B", 1);
+        valoresPorPonto.Add("C", 1);
+        valoresPorPonto.Add("D", 1);
+
 
         AtualizarTextos(); 
     }
@@ -62,7 +65,7 @@ public class Status : MonoBehaviour
     {
         if (valoresPorPonto.TryGetValue("A", out int valorA)) 
         {
-            textoPontoA.text = valorA.ToString(); //
+            textoPontoA.text = valorA.ToString();  
             Debug.Log("Ponto A ativado!");
         }
 

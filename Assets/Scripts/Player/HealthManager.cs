@@ -6,6 +6,7 @@ public class HealthManager : MonoBehaviour
 {
     public GameObject[] Pontos_PullUp;
     public GameObject[] Pontos_PullDown;
+    public GameObject[] Barries;
     public int maxHealth = 100;
     public int currentHealth;
     private Vector3 respawnPoint;
@@ -16,10 +17,12 @@ public class HealthManager : MonoBehaviour
     public Slider slider;
     public HealthBar healthBar;
     public static HealthManager Instance;
+    public int damage;
 
     void Start()
     {   
         player = GameObject.FindGameObjectWithTag("Player");
+        Barries = GameObject.FindGameObjectsWithTag("Barries");
         Pontos_PullDown = GameObject.FindGameObjectsWithTag("PontoDown");
         Pontos_PullUp = GameObject.FindGameObjectsWithTag("PontoUp");
         RespawnPoint = GameObject.FindGameObjectWithTag("respawnPoint");
@@ -30,7 +33,7 @@ public class HealthManager : MonoBehaviour
         }
         else
         {
-            Debug.LogError("Respawn point not found. Please ensure a GameObject with tag 'respawnPoint' exists in the scene.");
+            Debug.LogError("Respawn point not found.");
         }
 
         currentHealth = maxHealth;
@@ -41,6 +44,7 @@ public class HealthManager : MonoBehaviour
     void Update()
     {
         DeathTrigger();
+        //DeathTrigger2();
     }
 
     public void SetMaxHealth(int health)
@@ -51,7 +55,9 @@ public class HealthManager : MonoBehaviour
 
     public void SetHealth(int health)
     {
+        currentHealth = health;
         slider.value = health;
+        healthBar.SetHealth(currentHealth);
     }   
 
     public void DeathTrigger()
@@ -79,8 +85,23 @@ public class HealthManager : MonoBehaviour
                 }
             }
         }
-
     }
+
+    public void TriggerDeathAndRespawn2()
+    {
+        animator.SetTrigger("isDamaged");
+        healthBar.SetHealth(currentHealth);
+
+        if (currentHealth <= 0)
+        {   
+            currentHealth = 0;
+            animator.SetTrigger("IsDead");
+            healthBar.SetHealth(currentHealth);
+            StartCoroutine(Respawn());
+        }
+    }
+
+
 
     public void TriggerDeathAndRespawn()
     {

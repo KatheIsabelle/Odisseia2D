@@ -1,49 +1,41 @@
-using UnityEngine;
 using System.Collections;
-using System.Collections.Generic;   
-using UnityEngine.InputSystem;
-public class ShotController : MonoBehaviour{
+using System.Collections.Generic;
+using UnityEngine;
 
-    public static SoundManager Instance;
-    private Camera mainCam;
-    private Vector3 screenPoint;
-    private Vector3 mousePos;
-    public GameObject bullet;
-    public Transform bulletTransform;
-    public bool canFire;
-    private float timer;
-    public float timeBetweenFiring;
+public class ShotController : MonoBehaviour 
+{
+    [SerializeField] private Transform barrel;  // Ponto de origem do disparo
+    [SerializeField] private float fireRate;  // Tempo entre disparos
+    [SerializeField] private GameObject bullet;  // Prefab da bala
+    private float fireTimer;  // Temporizador para controlar o tempo entre disparos
 
-    void Start(){
-        mainCam = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<Camera>();
+    void Start()
+    {
+        fireTimer = 0f;  // Inicializa o temporizador
     }
 
-    void Update(){
+    void Update()
+    {
+        HandleShooting();
+    }
 
-        mousePos = Input.mousePosition;
-        screenPoint = mainCam.WorldToScreenPoint(transform.position); 
-
-        Vector3 rotation = mousePos - transform.position;
-
-        float rotZ = Mathf.Atan2(rotation.y, rotation.x) * Mathf.Rad2Deg;
-
-        transform.rotation = Quaternion.Euler(0, 0, rotZ);
-
-        if(!canFire)
+    private void HandleShooting()
+    {
+        // Verifica se o botão do mouse foi clicado e se é possível disparar
+        if (Input.GetMouseButtonDown(0) && CanShoot())
         {
-            timer += Time.deltaTime;
-            if(timer > timeBetweenFiring)
-            {
-                canFire = true;
-                timer = 0;
-            }
-        }
-
-        if (Keyboard.current.eKey.wasPressedThisFrame && canFire)
-        {   
-            canFire = false;
-            Instantiate(bullet, bulletTransform.position, Quaternion.identity);
+            Shoot();
         }
     }
 
+    private void Shoot()
+    {
+        Instantiate(bullet, barrel.position, barrel.rotation);  // Instancia a bala no ponto de origem
+        fireTimer = Time.time + fireRate;  // Atualiza o temporizador de disparo
+    }
+
+    private bool CanShoot()
+    {
+        return Time.time > fireTimer;  // Verifica se o tempo atual é maior que o tempo de disparo
+    }
 }

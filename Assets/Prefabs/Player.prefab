@@ -16,7 +16,6 @@ GameObject:
   - component: {fileID: 1429686548734987019}
   - component: {fileID: 5381925556756156883}
   - component: {fileID: 8934819411592899400}
-  - component: {fileID: 4700918876834437042}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -37,7 +36,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &3496187962548587108
 SpriteRenderer:
@@ -252,20 +251,6 @@ MonoBehaviour:
   - {fileID: 0}
   maxHealth: 100
   currentHealth: 0
-  respawnPoint: {x: 0, y: 0, z: 0}
   proximityDistance: 3
   slider: {fileID: 0}
   healthBar: {fileID: 0}
---- !u!114 &4700918876834437042
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3744160713248034307}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2207bfac7a11724dbf6098e9ebb9a4e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 3744160713248034307}

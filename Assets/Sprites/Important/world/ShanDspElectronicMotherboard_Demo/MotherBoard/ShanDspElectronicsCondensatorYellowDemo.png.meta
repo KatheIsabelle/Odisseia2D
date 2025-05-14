@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: daf8f2d982300634185129a3eb152aa9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 745
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0853b1a2455214292b25be5c3e06de
+      internalID: -796630742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 745
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1477483069d042240a094849f83e3b76
+      internalID: -1398689604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 722
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf62f3a6cbb72da4ba9aa3199b570f5f
+      internalID: -1188307291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 722
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f75036a07b44d74f9cd29bf6a6319f7
+      internalID: -1997196295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_4
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 697
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80aebfa9af263f408ef87b11b6a9b8d
+      internalID: 1534137676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 697
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90be4e30856a9ed439e092219b5728b8
+      internalID: 2024101803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 674
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b30abf181a9cb748b35902e0f9c626d
+      internalID: -1138780198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 674
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2339bed2476414049b5f417cef290ea2
+      internalID: -522755155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 649
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538e7dfbf855957429ab98bd9a4889e5
+      internalID: 1931035405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 649
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c704676e51823c14a9b232815b1966ba
+      internalID: 589384230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 626
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893a7f8c8eab82f4bae56c3654487fd7
+      internalID: -1787553862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 626
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c436a7a1256cdd4dae8f30466cd4aca
+      internalID: 1111413967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 601
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d66beb1c493b040807cab51635f12f
+      internalID: 1281884000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 601
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad51237dd357d946a6bbad896743ad6
+      internalID: -815353708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 578
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af733b4a42ec18843b46eca723b95d88
+      internalID: 1647770363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 578
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4542cfae207a48d4594690e95bd4f1eb
+      internalID: -218767510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 553
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46646459be01514492365350a650cd1
+      internalID: 713218446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_17
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 553
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f122b70932215418d1734f61d0a5d9
+      internalID: 1772871239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 530
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ab6ba62313e147a7d47199d0729ab
+      internalID: 515751510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_19
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 530
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222a1aa0b6f5f804f963141921976d86
+      internalID: 855125384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 505
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd1b6dddbd4a8d41b7ea95983b060a7
+      internalID: 165378786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 505
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7743071522623a0418a63d24b0c7c34f
+      internalID: 521368463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_22
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 482
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776aaa6564afdf044bda7a89a8a6461b
+      internalID: -979833165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_23
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 482
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3870546a3f0ab3641a83a1b90965b91a
+      internalID: 1930044465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 457
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87e29924e76d324fbd8143678f35b1b
+      internalID: -1458245124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_25
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 457
+        width: 5
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250050577ff47ba459887af152e2aa1c
+      internalID: -165342183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 434
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25f1236833773049ac53320fd9453bd
+      internalID: -191643295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_27
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 434
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8cc768495b5dd40842f6ecfa75b23e
+      internalID: -987129553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_28
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 388
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24101ad138f9a5242a110da26f4f8284
+      internalID: 1806303629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 388
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342afbe7447779c449a736f06985d5e5
+      internalID: 914356257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShanDspElectronicsCondensatorYellowDemo_30
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 388
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519d32a5737bd8c44a60fc6f1fa8df38
+      internalID: 232802483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShanDspElectronicsCondensatorYellowDemo_0: -796630742
+      ShanDspElectronicsCondensatorYellowDemo_1: -1398689604
+      ShanDspElectronicsCondensatorYellowDemo_10: -1787553862
+      ShanDspElectronicsCondensatorYellowDemo_11: 1111413967
+      ShanDspElectronicsCondensatorYellowDemo_12: 1281884000
+      ShanDspElectronicsCondensatorYellowDemo_13: -815353708
+      ShanDspElectronicsCondensatorYellowDemo_14: 1647770363
+      ShanDspElectronicsCondensatorYellowDemo_15: -218767510
+      ShanDspElectronicsCondensatorYellowDemo_16: 713218446
+      ShanDspElectronicsCondensatorYellowDemo_17: 1772871239
+      ShanDspElectronicsCondensatorYellowDemo_18: 515751510
+      ShanDspElectronicsCondensatorYellowDemo_19: 855125384
+      ShanDspElectronicsCondensatorYellowDemo_2: -1188307291
+      ShanDspElectronicsCondensatorYellowDemo_20: 165378786
+      ShanDspElectronicsCondensatorYellowDemo_21: 521368463
+      ShanDspElectronicsCondensatorYellowDemo_22: -979833165
+      ShanDspElectronicsCondensatorYellowDemo_23: 1930044465
+      ShanDspElectronicsCondensatorYellowDemo_24: -1458245124
+      ShanDspElectronicsCondensatorYellowDemo_25: -165342183
+      ShanDspElectronicsCondensatorYellowDemo_26: -191643295
+      ShanDspElectronicsCondensatorYellowDemo_27: -987129553
+      ShanDspElectronicsCondensatorYellowDemo_28: 1806303629
+      ShanDspElectronicsCondensatorYellowDemo_29: 914356257
+      ShanDspElectronicsCondensatorYellowDemo_3: -1997196295
+      ShanDspElectronicsCondensatorYellowDemo_30: 232802483
+      ShanDspElectronicsCondensatorYellowDemo_4: 1534137676
+      ShanDspElectronicsCondensatorYellowDemo_5: 2024101803
+      ShanDspElectronicsCondensatorYellowDemo_6: -1138780198
+      ShanDspElectronicsCondensatorYellowDemo_7: -522755155
+      ShanDspElectronicsCondensatorYellowDemo_8: 1931035405
+      ShanDspElectronicsCondensatorYellowDemo_9: 589384230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: CPUcore
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 922760376, guid: 1b79ab8819a488e4eb70f90652d33ab1, type: 3}
+  - {fileID: 319854908, guid: 1b79ab8819a488e4eb70f90652d33ab1, type: 3}
+  - {fileID: 1291097390, guid: 1b79ab8819a488e4eb70f90652d33ab1, type: 3}
+  - {fileID: 278396204, guid: 1b79ab8819a488e4eb70f90652d33ab1, type: 3}
+  - {fileID: 1762233347, guid: 1b79ab8819a488e4eb70f90652d33ab1, type: 3}
+  - {fileID: -817508842, guid: 1b79ab8819a488e4eb70f90652d33ab1, type: 3}
+  m_MinSpeed: 10
+  m_MaxSpeed: 10
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

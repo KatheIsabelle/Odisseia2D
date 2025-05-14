@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
@@ -14,32 +13,53 @@ public class LoadingScreenManager : MonoBehaviour
     {
         if (Instance != null && Instance != this)
         {
-            Destroy(this.gameObject);
+            Destroy(gameObject);
+            return;
         }
-        else
-        {
-            Instance = this;
-            DontDestroyOnLoad(this.gameObject);
-        }
+
+        Instance = this;
+        DontDestroyOnLoad(gameObject);
     }
 
-    public void SwitchToScene(string nextSceneName)
+    public void SwitchToScene(string sceneName)
     {
-        LoadingScreenObject.SetActive(true);
-        ProgressBar.value = 0;
-        StartCoroutine(SwitchToSceneAsync(nextSceneName));
+        if (LoadingScreenObject != null)
+        {
+            LoadingScreenObject.SetActive(true);
+        }
+
+        if (ProgressBar != null)
+        {
+            ProgressBar.value = 0;
+        }
+
+        StartCoroutine(SwitchToSceneAsync(sceneName));
     }
 
-    IEnumerator SwitchToSceneAsync(string nextSceneName)
+    IEnumerator SwitchToSceneAsync(string sceneName)
     {
-        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(nextSceneName);
-        while (!asyncLoad.isDone)
+        AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(sceneName);
+        asyncLoad.allowSceneActivation = false; // Impede que a cena mude antes do loading estar completo
+
+        while (asyncLoad.progress < 0.9f) // Carregando até 90%
         {
-            ProgressBar.value = asyncLoad.progress;
+            if (ProgressBar != null)
+            {
+                ProgressBar.value = asyncLoad.progress / 0.9f; // Normaliza o progresso para a barra chegar a 1.0
+            }
             yield return null;
         }
 
+        // Aguarda um pequeno tempo extra e depois ativa a cena
         yield return new WaitForSeconds(0.8f);
-        LoadingScreenObject.SetActive(false);
+        asyncLoad.allowSceneActivation = true;
+
+        // Aguarda mais um pouco para esconder a tela de loading após a cena ser carregada
+        yield return new WaitForSeconds(0.6f);
+        
+        if (LoadingScreenObject != null)
+        {
+            LoadingScreenObject.SetActive(false);
+        }
     }
 }

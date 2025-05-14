@@ -16,9 +16,18 @@ TagManager:
   - PontoC
   - PontoD
   - Barries
-  - Portal
   - light
   - respawnPoint
+  - Lights
+  - Portal
+  - Inversor
+  - NAND
+  - Complexa
+  - AOI
+  - World
+  - QuestItem
+  - Enemy
+  - Shot
   layers:
   - Default
   - TransparentFX
